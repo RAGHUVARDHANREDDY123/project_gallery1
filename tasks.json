@@ -1,6 +1,23 @@
 {
     "task1": [
+        "index (1).html",
         "dashboard.html"
+    ],
+    "task3": [
+        "GOOGLETASK.html"
+    ],
+    "task4": [
+        "Raghu.html"
+    ],
+    "task5": [
+        "TASK 5.html"
+    ],
+    "task8": [
+        "rara.html"
+    ],
+    "task9": [
+        "HTML.html",
+        "index_script.js"
     ],
     "task10": [
         "raghu11.html"
@@ -27,21 +44,5 @@
     "task15": [
         "bootstrap.html",
         "calculateAge.html"
-    ],
-    "task3": [
-        "GOOGLETASK.html"
-    ],
-    "task4": [
-        "Raghu.html"
-    ],
-    "task5": [
-        "TASK 5.html"
-    ],
-    "task8": [
-        "rara.html"
-    ],
-    "task9": [
-        "HTML.html",
-        "index_script.js"
     ]
 }
